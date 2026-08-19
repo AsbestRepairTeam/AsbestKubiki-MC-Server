@@ -22,5 +22,5 @@
 ### Карта сервера:
 <img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/map.png" width="400" alt="Анимация">
 
-###
-IP сервера: asbestkubiki.org
+##
+### IP сервера: asbestkubiki.org
