@@ -1,7 +1,7 @@
 ## Сервер AsbestKubiki.org
 <img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/gif.gif" width="400" alt="Анимация">
 
-## Сайт: ### https://mcserver.asbestkubiki.org
+## Сайт: https://mcserver.asbestkubiki.org
 
 ## Мир, разделённый на десятки государств. Своя валюта, свои законы, свои заводы. Выбери территорию по душе или заяви права на пустошь и построй державу с нуля.
 ### ⚪Стройте
