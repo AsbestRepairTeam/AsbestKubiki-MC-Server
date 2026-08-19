@@ -19,7 +19,7 @@
 ### (Все необходимые моды и ресурспаки уже предустановлены и активированы в сборке)
 
 ##
-Карта сервера:
+### Карта сервера:
 <img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/map.png" width="400" alt="Анимация">
 
 ###
