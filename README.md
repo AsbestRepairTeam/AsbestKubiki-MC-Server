@@ -1,8 +1,7 @@
-## Сервер AsbestKubiki.org 
-
-### https://github.com/maknau80 
-## Сайт:
-### https://asbestrepairteam.github.io/Asbest/HomePageRu.html
-
-
+## Сервер AsbestKubiki.org
 <img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/gif.gif" width="400" alt="Анимация">
+
+## Сайт:
+### https://mcserver.asbestkubiki.org
+
+
