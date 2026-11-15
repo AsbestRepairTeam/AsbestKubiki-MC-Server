@@ -23,4 +23,9 @@
 <img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/map.png" width="400" alt="Анимация">
 
 ##
+### Галерея
+<img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/2026-11-15_05.45.55.png" width="400" alt="Анимация">
+<img src="https://github.com/AsbestRepairTeam/AsbestKubiki-MC-Server/raw/main/image_2026-11-03_17-05-38.png" width="400" alt="Анимация">
+
+##
 ### IP сервера: asbestkubiki.org
